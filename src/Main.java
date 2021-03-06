@@ -8,7 +8,9 @@ public class Main {
         CustomWriter.writer(Arrays.toString(array));
         Arrays.toString(Calculate.comparingNumber(array));
         CustomWriter.writer(Arrays.toString(Calculate.comparingNumber(array)));
+        // array - dlya pacanov
     }
 }
+
 
 
